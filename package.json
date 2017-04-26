@@ -1,14 +1,14 @@
 {
   "name": "react-select-enh",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "A Select control built with and for ReactJS",
   "main": "lib/Select.js",
   "style": "dist/default.css",
-  "author": "Jed Watson",
+  "author": "Haris Dzidic",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JedWatson/react-select.git"
+    "url": "https://github.com/hdzidic/react-select.git"
   },
   "dependencies": {
     "classnames": "^2.2.0",
